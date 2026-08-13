@@ -2,16 +2,16 @@
 #     Netflix Data Analysis Project
 
 ##  Overview:    
-        This project analyzes the Netflix titles dataset to uncover trends in content type, country-wise distribution, release patterns, ratings, and genres. It was completed as part of a data analytics internship at Auspify Technologies, using Python (pandas, matplotlib, seaborn) for data cleaning, exploratory analysis, and visualization.
+This project analyzes the Netflix titles dataset to uncover trends in content type, country-wise distribution, release patterns, ratings, and genres. It was completed as part of a data analytics internship at Auspify Technologies, using Python (pandas, matplotlib, seaborn) for data cleaning, exploratory analysis, and visualization.
 ##  Dataset
-    source:Netflix-dataset.csv
-    Rows:  8790
-    Columns: 10(show_id, type, title, director, country, date_added, 
-    release_year, rating, duration, listed_in)
+source:Netflix-dataset.csv
+Rows:  8790
+Columns: 10(show_id, type, title, director, country, date_added, 
+release_year, rating, duration, listed_in)
 
 ##  Project Structure
 ```
-   netflix_Data_Analysis_Project/
+        netflix_Data_Analysis_Project/
 ├── data/
 │ └── netflix_dataset.csv
 ├── scripts/
